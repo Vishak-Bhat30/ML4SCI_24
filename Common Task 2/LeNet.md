@@ -52,13 +52,14 @@ The dataset also contained the m0 and pt values along with the target which was 
 		
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-    Results: Epoch 14/20, Train Loss: 0.5254, Val Loss: 0.5763, Val Accuracy: 0.7158
-	     The epoch 14 weights should be taken for the inference because after this point the 
+    Results: Epoch 10/20, Train Loss: 0.5405, Val Loss: 0.5784, Val Accuracy: 0.7126
+	     The epoch 10 weights should be taken for the inference because after this point the 
 	     training error and the validation error the difference increases.
 
              The model weight is present in the google drive here -  
-        	
+        	https://drive.google.com/file/d/10g7icdcjzLBUFsSSlsNxCTcZekdvZpwy/view?usp=sharing
 
-![__results___13_0](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/0b917835-9615-4063-afca-cffccde09857)
+![__results___13_0](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/164b9cb7-6994-4ca2-a3f0-dda3069f73fb)
+
 
 The above image is the training curve
