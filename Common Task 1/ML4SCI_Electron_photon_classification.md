@@ -18,7 +18,7 @@ The channels represented hit energy and time.
 
 
 
-	Approach: --> Firstly i reshaped the matrix into 2,32,32 so that it could be fed into the neural network 
+	Approach: --> Firstly I reshaped the matrix into 2,32,32 so that it could be fed into the neural network 
 
               --> Created a Dataset class that returns the matrix and the label for that matrix denoting the 
               class that matrix belongs to when an index is given under the __getitem__() function 
