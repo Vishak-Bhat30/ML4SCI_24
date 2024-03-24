@@ -66,9 +66,13 @@ The dataset also contained the m0 and pt values along with the target which was 
 
 	HyperParameters:
                 → criterion =  nn.CrossEntropyLoss()
+		→ optimizer = optim.Adam()
+  		→ scheduler = optim.lr_scheduler.StepLR()
+    		→ learning_rate = 0.001
                 → optimizer = optim.Adam()
                 → number of epochs= 14
                 → batch_size = 256
+		
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     Results: Train Loss: 0.5258, Val Loss: 0.5746, Val Accuracy: 0.7256
