@@ -2,7 +2,7 @@
 
 Task: To classify input as Quark/Gluon.
 
-    Datasets: https://cernbox.cern.ch/files/link/public/oolDBdQegsITFcv?tiles-size=1&items-per-page=100&view-mode=resource-table
+    Datasets: https://cernbox.cern.ch/s/oolDBdQegsITFcv
 
 This dataset was of the file format  .test.snappy.parquet extension
 It contains a matrix of shape (3,) in which each element was an array of 125 elements and that 125 elements had 125 elements. 
