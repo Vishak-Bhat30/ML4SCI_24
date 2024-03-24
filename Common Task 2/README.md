@@ -35,6 +35,8 @@ The dataset also contained the m0 and pt values along with the target which was 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
                Results: Train Loss: 0.5258, Val Loss: 0.5746, Val Accuracy: 0.7256
+	                The epoch 6 weights should be taken for the inference because after this point the 
+		        training error and the validation error the difference increases.
 
 ![__results___14_0](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/69763e74-aec8-46d7-a61b-97815006c237)
 The above image is the training curve
