@@ -7,6 +7,7 @@ Task: To classify input as Quark/Gluon(LeNet).
 This dataset was of the file format  .test.snappy.parquet extension
 It contains a matrix of shape (3,) in which each element was an array of 125 elements and that 125 elements had 125 elements. 
 The dataset also contained the m0 and pt values along with the target which was binary due to binary classification problem statement.
+![__results___4_0](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/1a59c374-03c2-457c-b2bd-361a90f7eed2)
 
 
     Approach:
