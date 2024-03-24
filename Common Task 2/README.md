@@ -34,7 +34,7 @@ The dataset also contained the m0 and pt values along with the target which was 
                 → batch_size = 256
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-        Results: Train Loss: 0.5258, Val Loss: 0.5746, Val Accuracy: 0.7256
+    Results: Train Loss: 0.5258, Val Loss: 0.5746, Val Accuracy: 0.7256
 	The epoch 6 weights should be taken for the inference because after this point the 
 	training error and the validation error the difference increases.
 
