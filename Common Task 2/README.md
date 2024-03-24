@@ -19,7 +19,9 @@ The dataset also contained the m0 and pt values along with the target which was 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     MODEL:
-	Then  the class of architecture which contains the architecture from nn.module was made. The architecture was similr to VGG and had 12 total layers (9 convolutional, 3 fully connected) layers, where all the conv layers were having the kernel size of 3*3. 
+	Then  the class of architecture which contains the architecture from nn.module was made. 
+        The architecture was similr to VGG and had 12 total layers (9 convolutional, 3 fully connected) layers,
+	where all the conv layers were having the kernel size of 3*3. 
 
 
 	
