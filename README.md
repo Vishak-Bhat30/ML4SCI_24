@@ -23,13 +23,11 @@ I carefully monitored the training progress over 100 epochs, ensuring optimal pe
 - **Validation Accuracy**: 84.11%
 - **Validation Loss**: 0.3474
 
-![Training Curve](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/9d892ec4-6cd9-4e33-ad5f-4d56b3862a9a)
+<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/9d892ec4-6cd9-4e33-ad5f-4d56b3862a9a" width="250" alt="Training Curve">
 
-*Figure: Training curve demonstrating the model's performance over time.*
 
-### Model Performance and Insights
+*Figure: Training curve demonstrating the model's performance over iterations.*
 
-The model demonstrated robust performance, with parameters finely tuned to balance between training and validation sets. The saved model parameters reflect a state where the model efficiently generalizes new data, substantiated by the achieved validation accuracy.
 
 
 
