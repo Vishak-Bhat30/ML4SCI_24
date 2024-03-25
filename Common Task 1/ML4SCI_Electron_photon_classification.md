@@ -108,7 +108,7 @@ The channels represented hit energy and time.
     HyperParameters:
                 → criterion =  nn.CrossEntropyLoss()
                 → optimizer = optim.Adam()
-                → number of epochs= 20
+                → number of epochs= 100
                 → batch_size = 256
                 → learning_rate =  0.01
                 → scheduler = ReduceLROnPlateau
@@ -116,9 +116,15 @@ The channels represented hit energy and time.
     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
      Results:
+    	Epoch 100/100: 100%|██████████| 1557/1557 [00:49<00:00, 31.36it/s, training loss=0.3649]
+	Validation Accuracy: 84.11%
+	VAL LOSS 0.34736170422121226
+	Model parameters saved
+	Finished Training
        
-The model weights are the follows:
+The model weights are in the same directory named model_resnet15.pth
 
 The above image is the training curve
 
+![__results___11_200](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/eee75a8b-ce34-4b6f-a50f-fc3dad5f3282)
 
