@@ -3,8 +3,7 @@
 
 ## Common Task 1. Electron/photon classification
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
+### Solution
 
 | Description               | Link                                                                                  |
 |---------------------------|---------------------------------------------------------------------------------------|
@@ -14,11 +13,9 @@
 | Notebook as PDF           | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ml4sci-task1-resnet15.pdf)          |
 | Model Weights             | [Weights PTH](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth)          |
 
-  </div>
-  <div>
-<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/9d892ec4-6cd9-4e33-ad5f-4d56b3862a9a" width="350" height="250" style="margin-left: 20px;">
-  </div>
-</div>
+
+### Results 
+<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/9d892ec4-6cd9-4e33-ad5f-4d56b3862a9a" width="350" height="250">
 
 
 
