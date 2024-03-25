@@ -1,7 +1,7 @@
 # <p align="center">ML4SCI_24 
 
 
-BY- VISHAK K BHAT
+<p align="center">BY- VISHAK K BHAT </p>
 </p>
 
 
