@@ -17,8 +17,6 @@
 ### Results 
 <img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/9d892ec4-6cd9-4e33-ad5f-4d56b3862a9a" width="350" height="250">
 
-
-
 Achieved an accuracy of 84% + in the Validation data after 80-20 split.
 
 Epoch 100/100: 100%|██████████| 1557/1557 [00:49<00:00, 31.36it/s, training loss=0.3649]
