@@ -40,6 +40,9 @@ The models weights are [here](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/ma
 
 ### Results 
 
+As seen in the below training curve the model starts to overfit after around 10 epochs.
+So I have saved that model where the gap between the train loss and the validation loss is less.
+
 <div style="display: flex; flex-direction: row;">
     <div style="flex: 50%; padding: 5px;">
         <img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/79c1cd93-921a-4ad4-ab92-656ba3d24f43" alt="Image 1" style="width: 400px;">
@@ -51,14 +54,5 @@ The models weights are [here](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/ma
     </div>
 </div>
 
-
-
-Achieved an accuracy of 84% + in the Validation data after 80-20 split.
-
-Epoch 100/100: 100%|██████████| 1557/1557 [00:49<00:00, 31.36it/s, training loss=0.3649]
-Validation Accuracy: 84.11%
-VAL LOSS 0.34736170422121226
-Model parameters saved
-Finished Training
 
 
