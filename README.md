@@ -16,7 +16,7 @@
 
 ### Detailed Training Outcomes
 
-We carefully monitored the training progress over 100 epochs, ensuring optimal performance without overfitting. Below are the key metrics at the conclusion of training:
+I carefully monitored the training progress over 100 epochs, ensuring optimal performance without overfitting. Below are the key metrics at the conclusion of training:
 
 - **Final Epoch**: 100/100
 - **Training Loss**: 0.3649
