@@ -31,14 +31,10 @@ The detailed solution, the .ipynb files and the model weights are present in the
 I have trained 2 models. 
 
 
-  -> VGG based architecture [(readme)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_VGG12.md)
+  -> VGG based architecture [(readme)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_VGG12.md)  [(notebook)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2_VGG12.ipynb)  [pdf](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2_VGG12.pdf)
 
   
-  -> LeNet based architecture [(readme)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_LeNet.md)
-
-
-
-Here is the [notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_task1_Resnet15.ipynb) and the [pdf](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ml4sci-task1-resnet15.pdf) file of the same.
+  -> LeNet based architecture [(readme)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_LeNet.md)  [notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2-LeNet5.ipynb)  [pdf](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2-LeNet5.pdf)
 
 The models weights are [here](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth).
 
