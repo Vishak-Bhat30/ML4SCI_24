@@ -32,6 +32,8 @@ I have trained 2 models.
 
 
   -> VGG based architecture [(readme)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_VGG12.md)
+
+  
   -> LeNet based architecture [(readme)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_LeNet.md)
 
 
