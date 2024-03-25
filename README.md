@@ -1,5 +1,9 @@
-# <p align="center">ML4SCI_24</p>
-#### <p align="center">BY- VISHAK K BHAT</p>
+# <p align="center">ML4SCI_24 
+
+
+BY- VISHAK K BHAT
+</p>
+
 
 ## Common Task 1. Electron/photon classification
 
