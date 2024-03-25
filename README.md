@@ -39,7 +39,17 @@ I have trained 2 models.
 The models weights are [here](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth).
 
 ### Results 
-<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/9d892ec4-6cd9-4e33-ad5f-4d56b3862a9a" width="350" height="250">
+
+<div style="display: flex; flex-direction: row;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/79c1cd93-921a-4ad4-ab92-656ba3d24f43" alt="Image 1" style="width: 100%;">
+        <p style="text-align: center;">Image 1</p>
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/3c486ed0-c3d8-4e37-8ed7-87f5818cbfa3" alt="Image 2" style="width: 100%;">
+        <p style="text-align: center;">Image 2</p>
+    </div>
+</div>
 
 
 Achieved an accuracy of 84% + in the Validation data after 80-20 split.
