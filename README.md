@@ -3,11 +3,11 @@
 
 ## Common Task 1. Electron/photon classification
 
-The detailed solution, the .ipynb files and the model weights are present in the directory [Common Task 1](https://github.com/Vishak-Bhat30/ML4SCI_24/tree/main/Common%20Task%201)
 ### Solution
 
 | Description               | Link                                                                                  |
 |---------------------------|---------------------------------------------------------------------------------------|
+| Directory                 | [Common Task 1](https://github.com/Vishak-Bhat30/ML4SCI_24/tree/main/Common%20Task%201) |
 | Detailed Solution         | [Solution MD](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_Electron_photon_classification.md) |
 | Notebook                  | [Notebook IPYNB](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_task1_Resnet15.ipynb) |
 | Notebook as PDF           | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ml4sci-task1-resnet15.pdf)          |
