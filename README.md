@@ -29,17 +29,15 @@ Finished Training
 
 ## Common Task 2.  Deep Learning based Quark-Gluon Classification
 
-The detailed solution, the .ipynb files and the model weights are present in the directory [Common Task 2](https://github.com/Vishak-Bhat30/ML4SCI_24/tree/main/Common%20Task%202)
-### Solution
-I have trained 2 models. 
+### Models Overview
 
+| Model Name     | Architecture | Detailed Solution | Notebook | PDF |
+|----------------|--------------|-------------------|----------|-----|
+| VGG-based      | VGG12        | [Readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_VGG12.md) | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2_VGG12.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2-VGG12.pdf) |
+| LeNet-based    | LeNet5       | [Readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_LeNet.md) | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2-LeNet5.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2-LeNet5.pdf) |
 
-  -> VGG based architecture [(readme)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_VGG12.md)  [(notebook)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2_VGG12.ipynb)  [(pdf)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2-VGG12.pdf)
+Model weights for both models can be found [here](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/model_weights.pth).
 
-  
-  -> LeNet based architecture [(readme)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/Quark_Gluon_classification_LeNet.md)  [(notebook)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2-LeNet5.ipynb)  [(pdf)](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/ML4SCI-24-task2-LeNet5.pdf)
-
-The models weights are [here](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth).
 
 ### Results 
 
