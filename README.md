@@ -46,16 +46,10 @@ So I have saved that model where the gap between the train loss and the validati
 
 Achieved accuracy around 73% on the validation set.
 
-<div style="display: flex; flex-direction: row;">
-    <div style="flex: 50%; padding: 5px;">
-        <img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/79c1cd93-921a-4ad4-ab92-656ba3d24f43" alt="Image 1" style="width: 400px;">
-        <p style="text-align: center;">VGG12</p>
-    </div>
-    <div style="flex: 50%; padding: 5px;">
-        <img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/3c486ed0-c3d8-4e37-8ed7-87f5818cbfa3" alt="Image 2" style="width: 400px;">
-        <p style="text-align: center;">LeNet</p>
-    </div>
-</div>
+
+![Image 1](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/79c1cd93-921a-4ad4-ab92-656ba3d24f43){ width=50% }
+![Image 2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/3c486ed0-c3d8-4e37-8ed7-87f5818cbfa3){ width=50% }
+
 
 
 
