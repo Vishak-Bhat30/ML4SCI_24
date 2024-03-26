@@ -12,16 +12,17 @@ The dataset also contained the m0 and pt values along with the target which was 
 
 #### Formation of Graph from Matrix
 
--> The matrix had a shape of (3,125,125). I have split this matrix into patches of patch_size (used 25 and 5). 
+-> **Making Patches:** The matrix had a shape of (3,125,125). I have split this matrix into patches of patch_size (used 25 and 5). 
 
 
--> For understanding lets take for now that the patch_size is 25. Then the matrix is broken into 25 such patches. Each patch is considered as a Node for our Graph, the node features being the flattened pixel values.
+-> **Node Features:** For understanding lets take for now that the patch_size is 25. Then the matrix is broken into 25 such patches. Each patch is considered as a Node for our Graph, the node features being the flattened pixel values.
 
--> KNN is used to find the neigbours of this node features and the K edges are formed based on which Node embedding is closer.
+-> **Edge Formation:** KNN is used to find the neigbours of this node features and the K edges are formed based on which Node embedding is closer.
 
--> Also the mean square error of the node features between which there is an edge is taken as the Edge feature.
+-> **Edge Features:** Also the mean square error of the node features between which there is an edge is taken as the Edge feature.
 
 -> This Graph is then loaded into the dataloader and then further training process is done
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 
