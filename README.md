@@ -8,9 +8,9 @@
 | Resource Type          | Description                                       | Link                                                                                        |
 |------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------|
 | **Directory**          | Complete collection of project files.             | [Common Task 1](https://github.com/Vishak-Bhat30/ML4SCI_24/tree/main/Common%20Task%201)    |
-| **Detailed Solution**  | Comprehensive breakdown of the approach used.     | [Read Solution](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_Electron_photon_classification.md) |
-| **Jupyter Notebook**   | Code and analysis in an interactive format.       | [Open Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_task1_Resnet15.ipynb) |
-| **PDF Version**        | Printable notebook for reference.                 | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ml4sci-task1-resnet15.pdf) |
+| **Detailed Solution**  | Breakdown of the approach used.     | [Read Solution](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_Electron_photon_classification.md) |
+| **Jupyter Notebook**   | Code and analysis in a Notebook format.       | [Open Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_task1_Resnet15.ipynb) |
+| **PDF Version**        | Pdf of the notebook.                 | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ml4sci-task1-resnet15.pdf) |
 | **Model Weights**      | Model weights for replication and testing.    | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth)       |
 
 
