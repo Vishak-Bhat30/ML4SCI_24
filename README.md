@@ -69,10 +69,12 @@ Below are the training curves for the VGG12 and LeNet architectures, illustratin
 
 ## GNN based Quark-Gluon Classification
 
-### Approach:
+### Approach 1:
 
 ![graph_formation](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/2516e942-d7cd-41d3-b388-f6a1bfa837dc)
 
+### Approach 2:
+![graph_formation_A2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/fa9541db-6081-4733-bee7-54770f77ffe0)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
