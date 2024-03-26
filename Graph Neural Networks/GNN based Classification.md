@@ -45,13 +45,9 @@
 
 | Model Name | Accuracy | Notebook Link | PDF Link | Model Weights |
 |------------|----------|---------------|----------|---------------|
-| GCNConv    | XX.X%    | [Notebook](your_notebook_link_here) | [PDF](your_pdf_link_here) | [Weights](your_weights_link_here) |
+| GCNConv    | 73.09%    | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/gcnconv-final.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/gcnconv-final.pdf) | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/GCNConv.pth) |
 | SAGEConv   | XX.X%    | [Notebook](your_notebook_link_here) | [PDF](your_pdf_link_here) | [Weights](your_weights_link_here) |
 | GATConv    | XX.X%    | [Notebook](your_notebook_link_here) | [PDF](your_pdf_link_here) | [Weights](your_weights_link_here) |
 
 
 
-result 
-
-Saved Best Model: Epoch 7, Val. Acc.: 0.7309
-Epoch: 001, Train Loss: 0.5905, Val. Loss: 0.5734, Val. Acc.: 0.7309
