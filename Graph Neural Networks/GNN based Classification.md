@@ -22,9 +22,6 @@
 -> **Dataloader:** This Graph is then loaded into the dataloader and then further training process is done
 
 
-![Pipeline2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/ca4fd76d-c157-47f1-8cf7-0d8f7493824e)
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Approach 2:
@@ -36,4 +33,10 @@
 -> **Edge Formation:** KNN is used to find the neigbours of this node features and the K edges are formed based on which Node embedding is closer.
 	
 -> **Dataloader:** This Graph is then loaded into the dataloader and then further training process is done
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Model
+
+![Pipeline2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/ca4fd76d-c157-47f1-8cf7-0d8f7493824e)
 
