@@ -17,5 +17,5 @@
 
 ### Results
 
-Saved Best Model: Epoch 8, Val. Acc.: 0.7309
+Saved Best Model: Epoch 11, Val. Acc.: 0.7309
 Epoch: 001, Train Loss: 0.5905, Val. Loss: 0.5734, Val. Acc.: 0.7309
