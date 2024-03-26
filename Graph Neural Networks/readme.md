@@ -13,7 +13,7 @@
 -> **Making Patches:** The matrix had a shape of (3,125,125). I have split this matrix into patches of patch_size (used 25). 
 
 
--> **Node Features:** The matrix is broken into 25 such patches. Each patch is considered as a Node for our Graph, the node features being the flattened pixel values (3*25*25 = 1875).
+-> **Node Features:** The matrix is broken into 25 such patches. Each patch is considered as a Node for our Graph, the node features being the flattened pixel values (1875 dimension).
 
 -> **Edge Formation:** KNN is used to find the neigbours of this node features and the K edges are formed based on which Node embedding is closer.
 
