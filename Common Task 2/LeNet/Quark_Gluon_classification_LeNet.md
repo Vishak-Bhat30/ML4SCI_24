@@ -42,13 +42,13 @@ The dataset also contained the m0 and pt values along with the target which was 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	HyperParameters:
-                → criterion =  nn.CrossEntropyLoss()
-		→ optimizer = optim.Adam()
-  		→ scheduler = optim.lr_scheduler.StepLR()
-    		→ learning_rate = 0.0001
-                → optimizer = optim.Adam()
-                → number of epochs= 20
-                → batch_size = 256
+        → criterion =  nn.CrossEntropyLoss()
+	→ optimizer = optim.Adam()
+  	→ scheduler = optim.lr_scheduler.StepLR()
+    → learning_rate = 0.0001
+    → optimizer = optim.Adam()
+    → number of epochs= 20
+    → batch_size = 256
 		
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
