@@ -43,7 +43,11 @@
 
 ![Pipeline2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/f8cacd18-f497-4652-b112-4cab7e7af6a3)
 
-
+| Model Name | Accuracy | Notebook Link | PDF Link | Model Weights |
+|------------|----------|---------------|----------|---------------|
+| GCNConv    | XX.X%    | [Notebook](your_notebook_link_here) | [PDF](your_pdf_link_here) | [Weights](your_weights_link_here) |
+| SAGEConv   | XX.X%    | [Notebook](your_notebook_link_here) | [PDF](your_pdf_link_here) | [Weights](your_weights_link_here) |
+| GATConv    | XX.X%    | [Notebook](your_notebook_link_here) | [PDF](your_pdf_link_here) | [Weights](your_weights_link_here) |
 
 
 
