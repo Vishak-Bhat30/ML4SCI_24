@@ -28,8 +28,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Approach 2:
-    
+-> **Node Features:** The number of non-zero pixel values are very less in number. Considering this, we can take all the non-zero pixels as the nodes
 
+-> **Edge Formation:** KNN is used to find the neigbours of this node features and the K edges are formed based on which Node embedding is closer.
 	
-
+-> **Dataloader:** This Graph is then loaded into the dataloader and then further training process is done
 
