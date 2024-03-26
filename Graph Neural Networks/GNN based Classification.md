@@ -46,7 +46,7 @@
 | Model Name | Accuracy | Notebook Link | PDF Link | Model Weights | Readme |
 |------------|----------|---------------|----------|---------------|--------|
 | GCNConv    | 73.09%    | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/gcnconv-final.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/gcnconv-final.pdf) | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/GCNConv.pth) | [readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/GCNConv.md)
-| GATConv    | XX.X%    | [Notebook](your_notebook_link_here) | [PDF](your_pdf_link_here) | [Weights](your_weights_link_here) |
+| GATConv    | 65.09%    | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/GATConv.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/gatconv.pdf) | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/GATConv.pth) |
 | SAGEConv   | 62.33%    | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/SAGEConv/graphsage-final.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/SAGEConv/graphsage-final.pdf) | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/SAGEConv/SAGEConv.pth) | [readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/SAGEConv/SAGEConv.md)
 
 
