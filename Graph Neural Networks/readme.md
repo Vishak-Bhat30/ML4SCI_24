@@ -21,7 +21,7 @@ The dataset also contained the m0 and pt values along with the target which was 
 
 -> **Edge Features:** Also the mean square error of the node features between which there is an edge is taken as the Edge feature.
 
--> This Graph is then loaded into the dataloader and then further training process is done
+-> **Dataloader:** This Graph is then loaded into the dataloader and then further training process is done
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
