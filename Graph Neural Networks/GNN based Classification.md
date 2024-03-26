@@ -43,4 +43,10 @@
 ![Pipeline2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/ca4fd76d-c157-47f1-8cf7-0d8f7493824e)
 
 
-### GraphConv
+
+
+
+result 
+
+Saved Best Model: Epoch 7, Val. Acc.: 0.7309
+Epoch: 001, Train Loss: 0.5905, Val. Loss: 0.5734, Val. Acc.: 0.7309
