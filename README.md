@@ -57,6 +57,12 @@ Below are the training curves for the VGG12 and LeNet architectures, illustratin
 |-------------------|----------------|
 | VGG12             | <img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/79c1cd93-921a-4ad4-ab92-656ba3d24f43" width="450" alt="Training Curve"> |
 | LeNet             |<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/3c486ed0-c3d8-4e37-8ed7-87f5818cbfa3" width="450" alt="Training Curve"> |
+| ResNet             |<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/12cbc9a7-317a-4949-ba66-4a28a31ee367" width="450" alt="Training Curve"> |
+| DenseNet             |<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/9bd8f6ed-6029-47a4-8ddf-0298b67cd07a" width="450" alt="Training Curve"> |
+| MobileNet             |<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/c929091c-d862-4084-a63a-13f4d658c1a8" width="450" alt="Training Curve"> |
+| EfficientNet             |<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/f263e48a-6e07-4d10-ba93-46de7cbe77cc" width="450" alt="Training Curve"> |
+
+
 
 **Observation:** The training curves indicate that careful monitoring of both train and validation losses is crucial to prevent overfitting and to choose the optimal model state for deployment.
 
