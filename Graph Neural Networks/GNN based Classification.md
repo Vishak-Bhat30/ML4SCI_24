@@ -28,6 +28,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Approach 2:
+
+![graph_formation_A2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/43736c09-3c5d-4398-b26c-b2de7760ad60)
+
 -> **Node Features:** The number of non-zero pixel values are very less in number. Considering this, we can take all the non-zero pixels as the nodes
 
 -> **Edge Formation:** KNN is used to find the neigbours of this node features and the K edges are formed based on which Node embedding is closer.
