@@ -42,7 +42,7 @@ The dataset also contained the m0 and pt values along with the target which was 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	HyperParameters:
-        → criterion =  nn.CrossEntropyLoss()
+    → criterion =  nn.CrossEntropyLoss()
 	→ optimizer = optim.Adam()
   	→ scheduler = optim.lr_scheduler.StepLR()
     → learning_rate = 0.0001
