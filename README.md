@@ -55,8 +55,8 @@ Below are the training curves for the VGG12 and LeNet architectures, illustratin
 
 | Model Architecture | Training Curve |
 |-------------------|----------------|
-| VGG12             | ![VGG12 Training Curve](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/79c1cd93-921a-4ad4-ab92-656ba3d24f43) |
-| LeNet             | ![LeNet Training Curve](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/3c486ed0-c3d8-4e37-8ed7-87f5818cbfa3) |
+| VGG12             | <img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/79c1cd93-921a-4ad4-ab92-656ba3d24f43" width="450" alt="Training Curve"> |
+| LeNet             |<img src="https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/3c486ed0-c3d8-4e37-8ed7-87f5818cbfa3" width="450" alt="Training Curve"> |
 
 **Observation:** The training curves indicate that careful monitoring of both train and validation losses is crucial to prevent overfitting and to choose the optimal model state for deployment.
 
