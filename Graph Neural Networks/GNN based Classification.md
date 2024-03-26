@@ -2,7 +2,7 @@
 
 ### Task: To classify input as Quark/Gluon using Graph Neural Networks(GNN).
 
-    Datasets: https://cernbox.cern.ch/s/oolDBdQegsITFcv
+    Datasets: [https://cernbox.cern.ch/s/oolDBdQegsITFcv](https://cernbox.cern.ch/s/oolDBdQegsITFcv)
 
 ### Approach 1:
 
