@@ -77,7 +77,13 @@ Below are the training curves for the VGG12 and LeNet architectures, illustratin
 ![graph_formation_A2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/fa9541db-6081-4733-bee7-54770f77ffe0)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
+### Models Overview  
+
+| Model Name | Accuracy | Notebook Link | PDF Link | Model Weights | Readme |
+|------------|----------|---------------|----------|---------------|--------|
+| GCNConv    | 73.09%    | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/gcnconv-final.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/gcnconv-final.pdf) | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/GCNConv.pth) | [readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GCNConv/GCNConv.md)
+| GATConv    | 65.09%    | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/GATConv.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/gatconv.pdf) | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/GATConv.pth) | [readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/GATConv.md)
+| SAGEConv   | 62.33%    | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/SAGEConv/graphsage-final.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/SAGEConv/graphsage-final.pdf) | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/SAGEConv/SAGEConv.pth) | [readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/SAGEConv/SAGEConv.md)
 
 	
 
