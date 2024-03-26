@@ -11,6 +11,8 @@ The dataset also contained the m0 and pt values along with the target which was 
 ### Approach:
 
 #### Formation of Graph from Matrix
+*Note: Approach inspired from the paper Vision GNN: An image is worth Graph of Nodes*
+![graph_formation](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/2516e942-d7cd-41d3-b388-f6a1bfa837dc)
 
 -> **Making Patches:** The matrix had a shape of (3,125,125). I have split this matrix into patches of patch_size (used 25 and 5). 
 
