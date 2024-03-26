@@ -7,7 +7,7 @@
 ### Approach:
 
 #### Formation of Graph from Matrix
-*Note: Approach inspired from the paper [Vision GNN: An image is worth Graph of Nodes](https://arxiv.org/abs/2206.00272)*
+*Note: Approach inspired from the paper [Vision GNN: An Image is Worth Graph of Nodes](https://arxiv.org/abs/2206.00272)*
 
 
 ![graph_formation](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/2516e942-d7cd-41d3-b388-f6a1bfa837dc)
