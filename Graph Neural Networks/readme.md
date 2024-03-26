@@ -20,6 +20,8 @@
 -> **Edge Features:** Also the mean square error of the node features between which there is an edge is taken as the Edge feature.
 
 -> **Dataloader:** This Graph is then loaded into the dataloader and then further training process is done
+![Pipeline2](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/ca4fd76d-c157-47f1-8cf7-0d8f7493824e)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
