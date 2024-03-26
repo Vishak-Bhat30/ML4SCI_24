@@ -4,7 +4,7 @@
 
     Datasets: https://cernbox.cern.ch/s/oolDBdQegsITFcv
 
-### Approach:
+### Approach 1:
 
 ![graph_formation](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/2516e942-d7cd-41d3-b388-f6a1bfa837dc)
 *Note: Approach inspired from the paper [Vision GNN: An Image is Worth Graph of Nodes](https://arxiv.org/abs/2206.00272)*
@@ -26,6 +26,8 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Approach 2:
     
 
 	
