@@ -1,6 +1,6 @@
 # <p align="center">ML4SCI_24 </p>
 
-
+*To Use this repository look [here](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Usage.md)*
 ## Common Task 1. Electron/photon classification
 
 ### Project Resources
