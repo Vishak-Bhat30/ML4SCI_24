@@ -12,7 +12,7 @@
 
 ### Results
 
-Saved Best Model: Epoch 8, Val. Acc.: 0.6233
-Epoch: 008, Train Loss: 0.6310, Val. Loss: 0.6810, Val. Acc.: 0.6233
-Training: 100%|██████████| 140/140 [06:49<00:00,  2.92s/it, loss=0.801]
+Saved Best Model: Epoch 5, Val. Acc.: 0.6744
+Epoch: 005, Train Loss: 0.6234, Val. Loss: 0.6171, Val. Acc.: 0.6744
 
+![GraphSAGE 67](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/b3e331f3-acc4-4d15-bfea-ae415847886c)
