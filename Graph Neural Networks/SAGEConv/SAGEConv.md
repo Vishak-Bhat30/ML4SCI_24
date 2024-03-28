@@ -11,8 +11,8 @@
     )
 
 ### Results
-*The weights were loaded of the model that was already trained for 5 epochs. Therefore the 5 epoch here is actually representing the 10th epoch.*
-Saved Best Model: Epoch 5, Val. Acc.: 0.6744
-Epoch: 005, Train Loss: 0.6234, Val. Loss: 0.6171, Val. Acc.: 0.6744
+*The weights were loaded of the model that was already trained for 10 epochs. Therefore the 5 epoch here is actually representing the 15th epoch.*
+Saved Best Model: Epoch 5, Val. Acc.: 0.7112
+Epoch: 005, Train Loss: 0.5818, Val. Loss: 0.5908, Val. Acc.: 0.7112
 
 ![GraphSAGE 67](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/b3e331f3-acc4-4d15-bfea-ae415847886c)
