@@ -87,6 +87,8 @@ Below are the training curves for the VGG12 and LeNet architectures, illustratin
 
 
 
+
+
 ![Pipeline2 drawio](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/7ce0d3a7-5124-4335-8ab5-f2c53ce335ec)
 
 
