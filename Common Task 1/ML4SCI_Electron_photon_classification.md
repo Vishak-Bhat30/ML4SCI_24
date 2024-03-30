@@ -3,7 +3,8 @@
 This repo contains the .ipynb and .pdfs and the weights of the model trained for ML4SCI for GSoC 2024.
 
 # Common Task 1. Electron/photon classification:
-         
+
+### Acieved accuracy of 84%+ and ROC-AUC score of 0.9246
 Task: To classify input as Electron/Photons.
 
     Dataset :  The below dataset was  provided
