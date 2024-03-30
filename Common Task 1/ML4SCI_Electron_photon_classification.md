@@ -28,6 +28,15 @@ The channels represented hit energy and time.
               --> The dataset is split into a train and a test set using the function train_test_split() of sklearn. 
               The test size is taken as 10 percent of the given data and the train size is implied that it will be 90 percent.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Project Resources
+
+| Resource Type          | Description                                       | Link                                                                                        |
+|------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Directory**          | Complete collection of project files.             | [Common Task 1](https://github.com/Vishak-Bhat30/ML4SCI_24/tree/main/Common%20Task%201)    |
+| **Detailed Solution**  | Breakdown of the approach used.     | [Read Solution](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_Electron_photon_classification.md) |
+| **Jupyter Notebook**   | Code and analysis in a Notebook format.       | [Open Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_task1_Resnet15.ipynb) |
+| **PDF Version**        | Pdf of the notebook.                 | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ml4sci-task1-resnet15.pdf) |
+| **Model Weights**      | Model weights for replication and testing.    | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth)       |
 
     MODEL: → Replicated Resnet architecture with 15 layers forming the Resnet15.
                  ResNet15(
