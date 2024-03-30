@@ -14,8 +14,8 @@
 | **Jupyter Notebook**   | Code and analysis in a Notebook format.       | [Open Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ML4SCI_task1_Resnet15.ipynb) |
 | **PDF Version**        | Pdf of the notebook.                 | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/ml4sci-task1-resnet15.pdf) |
 | **Model Weights**      | Model weights for replication and testing.    | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth)       |
-| **Inference**      | Notebook for the inference.    | [Inference Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth)       |
-| **ROC-AUC Score**      | Image of ROC curve.    | [0.9246](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/model_resnet15.pth)       |
+| **Inference**      | Notebook for the inference.    | [Inference Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/inference-electron-photon-classification.ipynb)       |
+| **ROC-AUC Score**      | Image of ROC curve.    | [0.9246](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/electron_photon%20ROC.png)       |
 
 
 ### Detailed Training Outcomes
