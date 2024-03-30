@@ -86,7 +86,7 @@ The dataset also contained the m0 and pt values along with the target which was 
 The above image is the training curve
 
 
-The above is the ROC curve 
+The below is the ROC curve 
 
 
 ![ROC_VGG](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/d5524ecf-eb6e-43c3-9d35-6ae28e82a5ee)
