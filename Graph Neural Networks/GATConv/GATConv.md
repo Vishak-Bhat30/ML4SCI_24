@@ -10,5 +10,7 @@
 
 ### Results
 
-Epoch: 001, Train Loss: 0.6747, Val. Loss: 0.6509, Val. Acc.: 0.6502
-Training: 100%|██████████| 140/140 [02:11<00:00,  1.07it/s, loss=0.764]
+Epoch: 003, Train Loss: 0.5265, Val. Loss: 0.9244, Val. Acc.: 0.6816
+Training: 100%|██████████| 140/140 [05:33<00:00,  2.38s/it, loss=0.242]
+
+Early stopping
