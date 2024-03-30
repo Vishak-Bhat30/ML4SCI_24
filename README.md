@@ -3,7 +3,7 @@
 
 ## Common Task 1. Electron/photon classification  
 
-### (achieved 84% + accuracy)
+### (achieved 84% + accuracy and ROC-AUC of 0.9246)
 
 ### Project Resources
 
