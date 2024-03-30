@@ -1,7 +1,9 @@
 # <p align="center">ML4SCI_24 </p>
 
 
-## Common Task 1. Electron/photon classification  (achieved 84% + accuracy)
+## Common Task 1. Electron/photon classification  
+
+### (achieved 84% + accuracy)
 
 ### Project Resources
 
