@@ -4,7 +4,7 @@ This repo contains the .ipynb and .pdfs and the weights of the model trained for
 
 # Common Task 1. Electron/photon classification:
 
-### Acieved accuracy of 84%+ and ROC-AUC score of 0.9246
+### Acieved accuracy of 84%+ and ROC-AUC score of [0.9246](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%201/electron_photon%20ROC.png)
 Task: To classify input as Electron/Photons.
 
     Dataset :  The below dataset was  provided
@@ -135,6 +135,14 @@ The channels represented hit energy and time.
 The model weights are in the same directory named model_resnet15.pth
 
 The above image is the training curve
+
+
+
+![electron_photon ROC](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/83407109-c090-4653-8146-e0aa9c95954d)
+
+
+
+The above image is the ROC curve
 
 ![__results___11_200](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/eee75a8b-ce34-4b6f-a50f-fc3dad5f3282)
 
