@@ -49,7 +49,7 @@ I carefully monitored the training progress over 100 epochs, ensuring optimal pe
 | EfficientNet-based | EfficientNetB0 | [Readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/EfficientNet/Quark_Gluon_classification_EfficientNet.md) | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/EfficientNet/ML4SCI-24-task2-2-efficientnet.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/EfficientNet/ml4sci-24-task2-2-efficientnet.pdf) | [EfficientNet PTH](https://drive.google.com/file/d/18gh6SCjKS227dSFMTJ_2sNZNh_M1MBNG/view?usp=sharing) | 63.57% (overfit)|
 
 
-
+### The inference notebooks can be found inside the directory 
 
 ### Results and Analysis
 
