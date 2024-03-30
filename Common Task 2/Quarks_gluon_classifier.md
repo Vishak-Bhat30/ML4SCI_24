@@ -12,7 +12,7 @@
 | EfficientNet-based | EfficientNetB0 | [Readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/EfficientNet/Quark_Gluon_classification_EfficientNet.md) | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/EfficientNet/ML4SCI-24-task2-2-efficientnet.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/EfficientNet/ml4sci-24-task2-2-efficientnet.pdf) | [EfficientNet PTH](https://drive.google.com/file/d/18gh6SCjKS227dSFMTJ_2sNZNh_M1MBNG/view?usp=sharing) | 63.57% (overfit)| [0.7241](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Common%20Task%202/EfficientNet/ROC_EfficientNet.png) |
 
 
-
+### The inference notebooks of all the models are present inside the directory and has the name inference
 
 ### Results and Analysis
 
