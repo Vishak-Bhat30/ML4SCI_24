@@ -50,5 +50,5 @@
 | GATConv    | 68.16%    | [Notebook](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/GATConv.ipynb) | [PDF](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/gatconv.pdf) | [Weights](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/GATConv.pth) | [readme](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/GATConv.md)  | [Inference](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/Infernce_GATConv-final.ipynb) | [0.8660](https://github.com/Vishak-Bhat30/ML4SCI_24/blob/main/Graph%20Neural%20Networks/GATConv/ROC_GATConv.png) |
 
 
-
+### Working on the value of threshold is going to improve the avvuracy of the model even more, By seeing the ROC AUC score.
 
