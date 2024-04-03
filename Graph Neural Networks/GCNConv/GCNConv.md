@@ -19,3 +19,4 @@
 
 Saved Best Model: Epoch 11, Val. Acc.: 0.7309
 Epoch: 001, Train Loss: 0.5905, Val. Loss: 0.5734, Val. Acc.: 0.7309
+![Training_curve_GCNConv](https://github.com/Vishak-Bhat30/ML4SCI_24/assets/102585626/5a3bf958-db58-4037-9c52-edff7abfdaf7)
